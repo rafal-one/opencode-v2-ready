@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rafal-one.github.io/opencode-v2-ready/sitemap.xml
